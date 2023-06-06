@@ -1,0 +1,53 @@
+<Mod
+	name="SpicyTP:EUI"
+	description="[h1]Spicy's Texture Pack: Elegant UI 1.3.0[/h1]
+is a texture pack that gives Noita's UI a refined and shiny aesthetic.
+[h3]Join the Discord![/h3]
+Well, it's really [url=https://discord.gg/AJXKqVZrMK]my personal Discord[/url]. But if you hop in and grab yourself a self-assignable role, there's a category that acts as my modding hub.
+
+[hr][/hr]
+[h2]What sprites does this mod overhaul?[/h2]
+This mod currently supports:
+[list]
+[*]Vanilla - [url=https://steamcommunity.com/workshop/filedetails/discussion/2887405712/4783413655229937398/]22 sprites[/url]
+[/list]
+
+[hr][/hr]
+[h2]Is this mod compatible with X?[/h2]
+This mod overwrites many image files - but it really shouldn't break anything.
+However, a Mod X that overrites the same files or edits the same sections of files as SpicyTP may take priority over this mod if Mod X loads after it. Likewise, this mod will take priority over others, though that's beneficial at times due to the nature of a texture pack.
+[b]To function correctly with SpicyTP:Core, this mod must be placed AFTER it in the load order.[/b]
+
+Found a bug? Leave a comment or start a discussion!
+
+[hr][/hr]
+[h2]Will there ever be cross-mod support?[/h2]
+[b]Maybe.[/b] Mods that add support-able UI elements aren't that common, and I'm not actively looking at the moment...
+However, I'm not familiar with every mod out there. If you're the owner of (or somehow affiliated with) a mod that you want me to add support for, consider reaching out to ask!
+
+[hr][/hr]
+[h2]How often does this mod update?[/h2]
+This mod is pretty much as done as it'll get. I may decide to edit or add sprites every so often, but there's not really any ETA on that.
+
+[b]CURRENT FOCUS:[/b] none
+[b]CURRENT STATUS:[/b] being passively maintained
+
+[hr][/hr]
+[h2]Credits go to[/h2]
+[list]
+[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main artist
+[*][b]Viowlet[/b] ([url=https://www.reddit.com/user/Viowlet/]u/Viowlet[/url]): their [url=https://www.reddit.com/r/noita/comments/jp56ub/a_while_ago_i_made_noita_blackletter_this_is_now]free-to-use Noita Blackletter font[/url]
+[/list]
+[h3]And a special thanks to[/h3]
+[list]
+[*][b]Siris[/b], for being a partial inspiration for the SpicyTP series and the single most energetic person I know
+
+[*]and [b]YOU[/b], for taking the time to check out this mod!
+[/list]
+
+Please be sure to rate on your way out, and share this with anyone you think might like it. Happy Noiting!"
+	tags="graphics, quality of life"
+	dont_upload_folders=""
+	dont_upload_files="changelog.txt"
+> 
+</Mod>

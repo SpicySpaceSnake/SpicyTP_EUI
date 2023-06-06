@@ -1,0 +1,9 @@
+[h1]Update 1.3.0[/h1]
+The pause menus have been touched up!
+[quote]
+[h2]Changes[/h2]
+[b]Inventory Elements[/b]
+[list]
+[*]Remade Pause Menu Graphics (2)
+[/list]
+[/quote]
