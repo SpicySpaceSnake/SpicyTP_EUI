@@ -12,10 +12,13 @@ This mod currently supports:
 [*]Vanilla - [url=https://steamcommunity.com/workshop/filedetails/discussion/2887405712/4783413655229937398/]22 sprites[/url]
 [/list]
 
+[h3]See also[/h3]
+To further customize SpicyTP, or to get lighter packages, be sure to visit the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2887423419]STP collection on the Steam Workshop[/url] or the [url=https://github.com/SpicySpaceSnake/SpicyTP/wiki]STP GitHub repository's wiki[/url].
+
 [hr][/hr]
 [h2]Is this mod compatible with X?[/h2]
-This mod overwrites many image files - but it really shouldn't break anything.
-However, a Mod X that overrites the same files or edits the same sections of files as SpicyTP may take priority over this mod if Mod X loads after it. Likewise, this mod will take priority over others, though that's beneficial at times due to the nature of a texture pack.
+This mod only overwrites image files and really shouldn't break anything.
+At most, a Mod X that overrites the same files or edits the same sections of files as SpicyTP may take priority over this mod if Mod X loads after it; likewise, this mod will take priority over others, though that's beneficial at times due to the nature of this mod.
 [b]To function correctly with SpicyTP:Core, this mod must be placed AFTER it in the load order.[/b]
 
 Found a bug? Leave a comment or start a discussion!
@@ -40,7 +43,10 @@ This mod is pretty much as done as it'll get. I may decide to edit or add sprite
 [/list]
 [h3]And a special thanks to[/h3]
 [list]
-[*][b]Siris[/b], for being a partial inspiration for the SpicyTP series and the single most energetic person I know
+[*][b]Siris[/b], for being a partial inspiration for the SpicyTP series
+[*][b]Kirisis[/b], for being the light of my life and for her invaluable support and early feedback
+[*][b]All of my partners[/b], for being a bunch of absolutely amazing people
+[*][b]Copi, GrahamBurger, Conga Lyne, and many others[/b] that I've either worked with or gotten advice from, for their previous and continued support
 
 [*]and [b]YOU[/b], for taking the time to check out this mod!
 [/list]
