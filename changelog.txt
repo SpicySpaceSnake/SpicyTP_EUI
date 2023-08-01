@@ -2,7 +2,7 @@
 The pause menus have been touched up!
 [quote]
 [h2]Changes[/h2]
-[b]Inventory Elements[/b]
+[b]Miscellaneous UI Elements[/b]
 [list]
 [*]Remade Pause Menu Graphics (2)
 [/list]
