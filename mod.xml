@@ -1,5 +1,5 @@
 <Mod
-	name="SpicyTP:EUI 1.3.0"
+	name="SpicyTP:EUI 1.3.1"
 	description="A texturepack that gives gives Noita's UI a refined and shiny aesthetic.
 Tip: If two texture packs replace the same sprite, the pack lowest in the mod list takes priority over that sprite.
 To function correctly with SpicyTP:Core, this mod must be placed AFTER it in the load order."
