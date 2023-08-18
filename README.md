@@ -1,4 +1,4 @@
-# Spicy's Texture Pack: Elegant UI 1.3.1
+# Spicy's Texture Pack: Elegant UI 1.3.2
 is a texture pack that gives Noita's UI a refined and shiny aesthetic.
 
 The full description is on the Steam Workshop. [Check it out there!](https://steamcommunity.com/sharedfiles/filedetails/?id=2887405712)
