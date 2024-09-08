@@ -1,9 +1,9 @@
-[h1]Update 1.3.2[/h1]
-Fresh unlocks and previously unlocked entries can now be properly differentiated in the progress menu (thank you Rockylars).
+[h1]Update 1.3.3[/h1]
+Mod should no longer have the "This mod has not been tested with the latest version" message.
 [quote]
 [h2]Changes[/h2]
-[b]Miscellaneous UI Elements[/b]
+[b]Technical[/b]
 [list]
-[*]Tweaked Progress Menu UI (2)
+[*]Updated the API version number
 [/list]
 [/quote]
